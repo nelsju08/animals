@@ -3,3 +3,4 @@ elephant
 lion
 seal
 crocodile
+human
